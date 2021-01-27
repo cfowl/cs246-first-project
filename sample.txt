@@ -8,3 +8,6 @@ This is a sampe text file.
 # Change the text in the file, then at the bottom of the screen enter a
 # commit message in the first field of the Commit Changes box.
 # Then, Click the Commit Changes button at the bottom of the screen.
+
+# Now, open sample.txt on your computer, and modify the same line of text
+# that you modified in step 1, but change it to something different.
