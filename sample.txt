@@ -8,3 +8,7 @@ This is a sampe text file.
 # Change the text in the file, then at the bottom of the screen enter a
 # commit message in the first field of the Commit Changes box.
 # Then, Click the Commit Changes button at the bottom of the screen.
+
+# Even More Instructions
+# Just like we did in Part II, open up GitHub and modify the text in
+# the sample.txt file, making sure you commit the changes.
